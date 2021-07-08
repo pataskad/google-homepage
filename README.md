@@ -1,0 +1,1 @@
+This is the first project in The Odin Projects curriculum in order to further understand HTML semantics and overall structure, including how CSS and JS talk to each other to create efficient applications.
