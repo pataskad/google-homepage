@@ -6,10 +6,50 @@
     </head>
 
     <body>
-        <img id="google-img" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="google-logo">
-        <form id="searchbar">
-            <input type="text">
-            <input type="submit">
-        </form>
+        <!--Navigation links-->
+        <div class="topNav">
+            <nav>
+                <!--Left navigation-->
+                    <ul id="left-nav">
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Store</a></li>
+                    </ul>
+                <!--Right navigation-->
+                <div>
+                    <ul id="right-nav">
+                        <li><a href="#">Gmail</a></li>
+                        <li><a href="#">Images</a></li>
+                        <li><a href="#"><img src="1x/outline_apps_black_24dp.png"></a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+
+        <!--Body content -->
+        <div id="search-body">
+            <div class="column-1">
+                <img id="google-img" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="google-logo">
+            </div>
+            <div class="searchcontainer">
+                <img class="searchicon" src="1x/outline_search_black_24dp.png">
+                <input class="searchBox" name="search" type="search">
+            </div>
+        </div>
+
+        <!--Footer section-->
+        <footer>
+            <nav>  
+                <ul id="bottom-left-nav">
+                    <li><a href="#">Advertising</a></li>
+                    <li><a href="#">Business</a></li>
+                    <li><a href="#">How Search Works</a></li>     
+                </ul>
+                <ul id="bottom-right-nav">
+                    <li><a href="#">Privacy</a></li>
+                    <li><a href="#">Terms</a></li>
+                    <li><a href="#">Settings</a></li>
+                </ul>
+            </nav> 
+        </footer>
     </body>
 </html>
