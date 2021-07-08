@@ -1,1 +1,1 @@
-This is the first project in The Odin Projects curriculum in order to further understand HTML semantics and overall structure, including how CSS and JS talk to each other to create efficient applications.
+This is the first project in The Odin Projects curriculum in order to further understand HTML semantics and overall structure, including how CSS and JS talk to each other to create efficient applications.  The goal of this project is to build a google homepage look alike (without being a perfectionist).
