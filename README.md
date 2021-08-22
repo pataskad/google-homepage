@@ -1,4 +1,4 @@
-# Google Homepage replica #
+# Google Homepage Replica #
 
 [Live Demo](https://pataskad.github.io/google-homepage/)
 
